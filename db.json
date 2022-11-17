@@ -1,0 +1,59 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "subject": "JavaScript",
+      "title": "Complete Reference",
+      "authors": "Kerty Syera",
+      "publisher": "Com tech",
+      "edition": "8",
+      "noofpages": "504",
+      "isbn": "45622",
+      "shelfno": "3"
+    },
+    {
+      "id": 2,
+      "subject": "Java",
+      "title": "Java Programming",
+      "authors": "Surbhi Kakar",
+      "publisher": "Infra",
+      "edition": "9",
+      "noofpages": "404",
+      "isbn": "68622",
+      "shelfno": "2"
+    },
+    {
+      "id": 3,
+      "subject": "Python",
+      "title": "Core Python",
+      "authors": "Bear Grylls ",
+      "publisher": "Discovery",
+      "edition": "23",
+      "noofpages": "890",
+      "isbn": "3479",
+      "shelfno": "1"
+    },
+    {
+      "id": 4,
+      "subject": "C++",
+      "title": "Why Not C",
+      "authors": "John Cena",
+      "publisher": "WWE",
+      "edition": "21",
+      "noofpages": "420",
+      "isbn": "9211",
+      "shelfno": "5"
+    },
+    {
+      "subject": "JavaScript",
+      "title": "React",
+      "authors": "Lionel Lopez",
+      "publisher": "FaceBook",
+      "edition": "37821",
+      "noofpages": "586",
+      "isbn": "467689",
+      "shelfno": "3",
+      "id": 5
+    }
+  ]
+}
